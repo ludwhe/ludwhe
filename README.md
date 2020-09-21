@@ -1,3 +1,4 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working as a full-stack developer
+- 🔭 I’m currently a student at CESI École d'Ingénieurs
+- 🔍 I'm looking for internships in and around Lyon, France
