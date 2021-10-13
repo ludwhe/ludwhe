@@ -1,3 +1,3 @@
 ### Hi there 👋
 
-- 🔭 I’m currently a student at CESI École d'Ingénieurs
+- I'm currently connecting coffee machines to the ⛅
